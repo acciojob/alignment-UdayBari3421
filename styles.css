@@ -9,7 +9,6 @@ h3{
 }
 .middle {
     padding: 1px;
-	border: 1px solid rgb(0, 0, 0);
 }
 img {
     width: 100px;
@@ -20,5 +19,8 @@ img {
 }
 .green{
 	background-color:green;
+}
+#table-1{
+	border: 1px solid rgb(0, 0, 0);
 }
 /*  your css code here. If applicable */
