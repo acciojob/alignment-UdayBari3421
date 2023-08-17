@@ -20,4 +20,9 @@ img {
 .green{
 	background-color:green;
 }
+table {
+    border: 1px solid black;
+    border-spacing: 1px;
+    border-collapse: collapse;
+}
 /*  your css code here. If applicable */
