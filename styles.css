@@ -7,8 +7,8 @@ h3{
 .center{
 	text-align:center;
 }
-.middle{
-/* 	border:1px solid black; */
+.middle {
+    padding: 1px;
 }
 img {
     width: 100px;
